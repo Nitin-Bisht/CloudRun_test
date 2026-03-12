@@ -1,0 +1,329 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner:
+      - generic [ref=e3]:
+        - link "VISTAR" [ref=e4] [cursor=pointer]:
+          - /url: /
+          - img [ref=e5]
+          - generic [ref=e10]: VISTAR
+        - navigation [ref=e11]:
+          - link "Architecture" [ref=e12] [cursor=pointer]:
+            - /url: "#architecture"
+          - link "Method" [ref=e13] [cursor=pointer]:
+            - /url: "#method"
+          - link "Launch" [ref=e14] [cursor=pointer]:
+            - /url: "#get-started"
+      - generic [ref=e16]:
+        - generic [ref=e17]: Sovereign Time
+        - generic [ref=e18]: 10:39 AM
+    - main [ref=e21]:
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - generic [ref=e26]:
+            - generic: Drag To Rotate
+            - generic:
+              - generic: INCORPORATION MARKETPLACE
+            - generic:
+              - generic: GLOBAL ENTITY NETWORK
+            - generic:
+              - generic:
+                - generic: Currently in Early Access
+              - generic:
+                - generic: scale.
+                - heading "VISTAR" [level=1]:
+                  - generic: V
+                  - generic: I
+                  - generic: S
+                  - generic: T
+                  - generic: A
+                  - generic: R
+                - paragraph: Verified Incorporation Setup, Trusted Across Regions.
+                - generic [ref=e31]:
+                  - generic [ref=e32]:
+                    - paragraph [ref=e33]: Global Incorporation Marketplace
+                    - paragraph [ref=e34]: Fund, form & operate globally. VISTAR is a platform for discovering and connecting with incorporation experts across the world.
+                  - generic [ref=e35]:
+                    - link "Get Started" [ref=e36] [cursor=pointer]:
+                      - /url: /signup
+                      - text: Get Started
+                      - img [ref=e37]
+                    - link "Explore Platform" [ref=e39] [cursor=pointer]:
+                      - /url: /#architecture
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: 9+
+                    - paragraph: Active Countries
+                - generic:
+                  - generic:
+                    - paragraph: 10+
+                    - paragraph: Verified Providers
+                - generic:
+                  - generic:
+                    - paragraph: 0+
+                    - paragraph: Published Reviews
+                - generic:
+                  - generic:
+                    - paragraph: 48h
+                    - paragraph: Support Window
+                - generic:
+                  - generic: scroll
+          - generic [ref=e41]:
+            - generic [ref=e42]:
+              - generic [ref=e47]: In Active Development
+              - heading "A transparent foundation for global expansion." [level=2] [ref=e48]
+              - paragraph [ref=e49]: We are building VISTAR to connect ambitious founders directly with verified incorporation experts worldwide. No hidden markups, no opaque processesâ€”just direct access to the local providers you need to scale.
+            - generic [ref=e50]:
+              - generic [ref=e51]:
+                - img [ref=e53]
+                - heading "Discover Providers" [level=3] [ref=e56]
+                - paragraph [ref=e57]: Browse a curated directory of local legal and tax experts across key global jurisdictions.
+              - generic [ref=e58]:
+                - img [ref=e60]
+                - heading "Connect Directly" [level=3] [ref=e62]
+                - paragraph [ref=e63]: Bypass expensive middlemen. Communicate directly with verified operators to establish your entity.
+              - generic [ref=e64]:
+                - img [ref=e66]
+                - heading "Transparent Reviews" [level=3] [ref=e68]
+                - paragraph [ref=e69]: Make informed decisions based on verified reviews from other founders who have successfully scaled.
+        - generic [ref=e71]:
+          - generic [ref=e72]: 190+ Jurisdictions
+          - generic [ref=e74]: Verified Provider Network
+          - generic [ref=e76]: Institutional Activation
+          - generic [ref=e78]: 48hr Launch Support
+          - generic [ref=e80]: Immutable Audit Trails
+          - generic [ref=e82]: Global Entity Operations
+          - generic [ref=e84]: 190+ Jurisdictions
+          - generic [ref=e86]: Verified Provider Network
+          - generic [ref=e88]: Institutional Activation
+          - generic [ref=e90]: 48hr Launch Support
+          - generic [ref=e92]: Immutable Audit Trails
+          - generic [ref=e94]: Global Entity Operations
+        - generic [ref=e96]:
+          - generic [ref=e99]:
+            - generic:
+              - generic: Discovery
+            - generic [ref=e100]:
+              - generic [ref=e101]:
+                - generic [ref=e102]:
+                  - generic [ref=e103]:
+                    - img [ref=e104]
+                    - generic [ref=e110]: The Discovery Engine
+                  - generic [ref=e111]:
+                    - generic [ref=e113]: Jurisdictional
+                    - generic [ref=e115]: Intelligence
+                - paragraph [ref=e116]: Access structured cost models and tax treaty data across dozens of jurisdictions. VISTAR eliminates manual research by centralizing regulatory requirements and cost structures in one predictive interface.
+                - link "Explore Jurisdictions" [ref=e117] [cursor=pointer]:
+                  - /url: /signup?role=client
+                  - text: Explore Jurisdictions
+                  - img [ref=e118]
+              - img "Jurisdictional Intelligence" [ref=e122]
+          - generic [ref=e125]:
+            - generic:
+              - generic: Trust
+            - generic [ref=e126]:
+              - generic [ref=e127]:
+                - generic [ref=e128]:
+                  - generic [ref=e129]:
+                    - img [ref=e130]
+                    - generic [ref=e132]: The Trust Surface
+                  - generic [ref=e133]:
+                    - generic [ref=e135]: Vetted
+                    - generic [ref=e137]: Provider
+                    - generic [ref=e139]: Network
+                - paragraph [ref=e140]: Connect with incorporation experts who are individually verified and checked. Our platform is built around immutable audit trails and transparent reviews, so every executive action is protected.
+                - link "Explore Jurisdictions" [ref=e141] [cursor=pointer]:
+                  - /url: /signup?role=client
+                  - text: Explore Jurisdictions
+                  - img [ref=e142]
+              - img "Vetted Provider Network" [ref=e146]
+          - generic [ref=e149]:
+            - generic:
+              - generic: OS
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - generic [ref=e152]:
+                  - generic [ref=e153]:
+                    - img [ref=e154]
+                    - generic [ref=e157]: Velocity OS
+                  - generic [ref=e158]:
+                    - generic [ref=e160]: Institutional
+                    - generic [ref=e162]: Execution
+                - paragraph [ref=e163]: Execute global entity activation with a single workflow. Our secure credit-based contact system connects you directly with qualified operators, targeting a rapid mission-critical activation window.
+                - link "Explore Jurisdictions" [ref=e164] [cursor=pointer]:
+                  - /url: /signup?role=client
+                  - text: Explore Jurisdictions
+                  - img [ref=e165]
+              - img "Institutional Execution" [ref=e169]
+        - generic [ref=e171]:
+          - generic [ref=e172]:
+            - paragraph [ref=e173]: Global Reach
+            - heading "190+ Jurisdictions" [level=2] [ref=e174]
+            - paragraph [ref=e175]: Scroll to explore the world's premier incorporation destinations
+          - generic [ref=e182]:
+            - generic [ref=e183]:
+              - img "Singapore" [ref=e184]
+              - generic [ref=e187]: 01 / 05
+              - generic [ref=e189]:
+                - generic [ref=e190]:
+                  - generic [ref=e191]:
+                    - heading "Singapore" [level=3] [ref=e192]
+                    - paragraph [ref=e193]: Global Holding & APAC Hub
+                  - paragraph [ref=e194]: The premier gateway to Asian markets with robust legal frameworks, extensive tax treaties, and a highly favorable corporate structure.
+                - generic [ref=e195]:
+                  - generic [ref=e196]:
+                    - generic [ref=e197]: Corp Tax
+                    - generic [ref=e198]: 17%
+                  - generic [ref=e199]:
+                    - generic [ref=e200]: Setup Time
+                    - generic [ref=e201]: 2 Days
+                  - generic [ref=e202]:
+                    - generic [ref=e203]: Privacy Level
+                    - generic [ref=e204]: Standard
+            - generic [ref=e205]:
+              - img "Delaware, US" [ref=e206]
+              - generic [ref=e209]: 02 / 05
+              - generic [ref=e211]:
+                - generic [ref=e212]:
+                  - generic [ref=e213]:
+                    - heading "Delaware, US" [level=3] [ref=e214]
+                    - paragraph [ref=e215]: Tech & Venture Capital Target
+                  - paragraph [ref=e216]: The gold standard for venture-backed startups, offering the specialized Court of Chancery and unmatched corporate flexibility.
+                - generic [ref=e217]:
+                  - generic [ref=e218]:
+                    - generic [ref=e219]: Corp Tax
+                    - generic [ref=e220]: Variable
+                  - generic [ref=e221]:
+                    - generic [ref=e222]: Setup Time
+                    - generic [ref=e223]: 24 Hours
+                  - generic [ref=e224]:
+                    - generic [ref=e225]: Privacy Level
+                    - generic [ref=e226]: High
+            - generic [ref=e227]:
+              - img "Cayman Islands" [ref=e228]
+              - generic [ref=e231]: 03 / 05
+              - generic [ref=e233]:
+                - generic [ref=e234]:
+                  - generic [ref=e235]:
+                    - heading "Cayman Islands" [level=3] [ref=e236]
+                    - paragraph [ref=e237]: Funds & Web3 Structuring
+                  - paragraph [ref=e238]: Leading global jurisdiction for institutional fund structuring, foundation-based token generation, and tax-neutral operations.
+                - generic [ref=e239]:
+                  - generic [ref=e240]:
+                    - generic [ref=e241]: Corp Tax
+                    - generic [ref=e242]: 0%
+                  - generic [ref=e243]:
+                    - generic [ref=e244]: Setup Time
+                    - generic [ref=e245]: 3–5 Days
+                  - generic [ref=e246]:
+                    - generic [ref=e247]: Privacy Level
+                    - generic [ref=e248]: Maximum
+            - generic [ref=e249]:
+              - img "London, UK" [ref=e250]
+              - generic [ref=e253]: 04 / 05
+              - generic [ref=e255]:
+                - generic [ref=e256]:
+                  - generic [ref=e257]:
+                    - heading "London, UK" [level=3] [ref=e258]
+                    - paragraph [ref=e259]: Fintech & European Hub
+                  - paragraph [ref=e260]: A globally recognized financial center with deep specialized talent and a progressive regulatory environment for fintech.
+                - generic [ref=e261]:
+                  - generic [ref=e262]:
+                    - generic [ref=e263]: Corp Tax
+                    - generic [ref=e264]: 25%
+                  - generic [ref=e265]:
+                    - generic [ref=e266]: Setup Time
+                    - generic [ref=e267]: 24 Hours
+                  - generic [ref=e268]:
+                    - generic [ref=e269]: Privacy Level
+                    - generic [ref=e270]: Standard
+            - generic [ref=e271]:
+              - img "Dubai, UAE" [ref=e272]
+              - generic [ref=e275]: 05 / 05
+              - generic [ref=e277]:
+                - generic [ref=e278]:
+                  - generic [ref=e279]:
+                    - heading "Dubai, UAE" [level=3] [ref=e280]
+                    - paragraph [ref=e281]: Global Freezones
+                  - paragraph [ref=e282]: A strategic bridge between East and West offering 100% foreign ownership and specialized regulatory sandboxes within economic freezones.
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - generic [ref=e285]: Corp Tax
+                    - generic [ref=e286]: 9%
+                  - generic [ref=e287]:
+                    - generic [ref=e288]: Setup Time
+                    - generic [ref=e289]: 4–7 Days
+                  - generic [ref=e290]:
+                    - generic [ref=e291]: Privacy Level
+                    - generic [ref=e292]: High
+          - paragraph [ref=e294]: scroll to explore
+        - generic [ref=e297]:
+          - generic [ref=e298]:
+            - generic [ref=e299]: Operational Protocol
+            - generic [ref=e300]:
+              - generic [ref=e302]: How
+              - generic [ref=e304]: institutional
+              - generic [ref=e306]: setup
+              - generic [ref=e308]: flows
+              - generic [ref=e310]: end-to-end
+          - generic [ref=e311]:
+            - article [ref=e314]:
+              - generic: "01"
+              - generic [ref=e315]:
+                - img [ref=e316]
+                - generic [ref=e319]:
+                  - heading "Search & Discover" [level=4] [ref=e320]
+                  - paragraph [ref=e321]: Filter 190+ countries by cost, timeline, and complexity.
+            - article [ref=e323]:
+              - generic: "02"
+              - generic [ref=e324]:
+                - img [ref=e325]
+                - generic [ref=e330]:
+                  - heading "Compare Providers" [level=4] [ref=e331]
+                  - paragraph [ref=e332]: Review vetted firms with cryptographically-verified credentials.
+            - article [ref=e334]:
+              - generic: "03"
+              - generic [ref=e335]:
+                - img [ref=e336]
+                - generic [ref=e338]:
+                  - heading "Secure Contact" [level=4] [ref=e339]
+                  - paragraph [ref=e340]: Spend 1 credit to initiate an institutional-grade inquiry.
+            - article [ref=e342]:
+              - generic: "04"
+              - generic [ref=e343]:
+                - img [ref=e344]
+                - generic [ref=e347]:
+                  - heading "Accelerated Setup" [level=4] [ref=e348]
+                  - paragraph [ref=e349]: Incorporate with full transparency and 48-hour support.
+        - generic [ref=e351]:
+          - generic [ref=e352]:
+            - paragraph [ref=e353]: Begin Your Institutional Journey
+            - heading "READY TO incorporate." [level=2] [ref=e354]:
+              - text: READY TO
+              - generic [ref=e355]: incorporate.
+            - paragraph [ref=e356]: Join 3,200+ entities already operating through VISTAR's institutional standard.
+          - link "Get Started Now" [ref=e358] [cursor=pointer]:
+            - /url: /signup
+    - contentinfo [ref=e359]:
+      - generic [ref=e361]:
+        - generic [ref=e362]:
+          - generic [ref=e363]:
+            - generic [ref=e364]: V
+            - generic [ref=e365]: Vistar
+          - paragraph [ref=e366]: Verified Incorporation Setup, Trusted Across Regions.
+        - generic [ref=e367]:
+          - link "Architecture" [ref=e368] [cursor=pointer]:
+            - /url: /#architecture
+          - link "Method" [ref=e369] [cursor=pointer]:
+            - /url: /#method
+          - link "Launch" [ref=e370] [cursor=pointer]:
+            - /url: /#get-started
+          - link "Terms" [ref=e371] [cursor=pointer]:
+            - /url: /legal/terms
+          - link "Privacy" [ref=e372] [cursor=pointer]:
+            - /url: /legal/privacy
+        - paragraph [ref=e374]:
+          - text: © 2026 VISTAR GLOBAL PROTOCOL
+          - text: ALL RIGHTS RESERVED
+      - paragraph [ref=e376]: "Legal Disclaimer: VISTAR is not a law firm and does not provide legal, tax, financial, or regulatory advice. All content is for informational purposes only. Users are solely responsible for independent due diligence and should consult qualified professional counsel before acting on any jurisdictional information. Provider listings do not constitute an endorsement or guarantee of services."
+  - alert [ref=e377]
