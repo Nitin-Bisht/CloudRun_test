@@ -11,31 +11,23 @@ steps:
       '--build-arg', 'NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=${_NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY}',
       '.'
     ]
-
+ 
   # Step 2: Push the image to Google Container Registry
   - name: 'gcr.io/cloud-builders/docker'
     args: ['push', 'gcr.io/$PROJECT_ID/xbandglobal:$COMMIT_SHA']
-
+ 
   # Step 3: Deploy to Cloud Run with runtime env vars
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: 'gcloud'
     args: [
       'run', 'deploy', 'xbandglobal',
       '--image', 'gcr.io/$PROJECT_ID/xbandglobal:$COMMIT_SHA',
-      '--region', 'asia-south1',
+      '--region', 'europe-west1',
       '--platform', 'managed',
       '--allow-unauthenticated',
       '--set-env-vars',
       'NEXT_PUBLIC_SUPABASE_URL=${_NEXT_PUBLIC_SUPABASE_URL},NEXT_PUBLIC_SUPABASE_ANON_KEY=${_NEXT_PUBLIC_SUPABASE_ANON_KEY},SUPABASE_SERVICE_ROLE_KEY=${_SUPABASE_SERVICE_ROLE_KEY},STRIPE_SECRET_KEY=${_STRIPE_SECRET_KEY},NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=${_NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY},STRIPE_WEBHOOK_SECRET=${_STRIPE_WEBHOOK_SECRET}'
     ]
-
-substitutions:
-  _NEXT_PUBLIC_SUPABASE_URL: ''
-  _NEXT_PUBLIC_SUPABASE_ANON_KEY: ''
-  _SUPABASE_SERVICE_ROLE_KEY: ''
-  _STRIPE_SECRET_KEY: ''
-  _NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY: ''
-  _STRIPE_WEBHOOK_SECRET: ''
-
+ 
 options:
   logging: CLOUD_LOGGING_ONLY
